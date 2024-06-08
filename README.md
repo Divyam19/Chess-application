@@ -1,4 +1,4 @@
-# Chess-application
+# JAVA Chess-application
 A chess program made by me included the logic and all the effects. I hard-coded all the functions as well as the objects to make it give a smooth experience. it was just a beginner friendly project  covering only the basic aspects of a chess program.
 
 
